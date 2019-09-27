@@ -1,2 +1,2 @@
 # astar
-A* Algorithm
+A* Algorithm visualised with p5 library
